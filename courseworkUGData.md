@@ -2,7 +2,7 @@
 id: litvis
 
 narrative-schemas:
-  - ../narrative-schemas/courseworkUG.yml
+  - narrative-schemas/courseworkUG.yml
 
 elm:
   dependencies:
@@ -10,7 +10,7 @@ elm:
     gicentre/tidy: latest
 ---
 
-@import "../css/datavis.less"
+@import "css/datavis.less"
 
 ```elm {l=hidden}
 import Tidy exposing (..)

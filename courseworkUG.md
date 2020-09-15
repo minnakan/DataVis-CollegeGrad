@@ -3,7 +3,7 @@ follows: courseworkUGData
 id: litvis
 ---
 
-@import "../css/datavis.less"
+@import "css/datavis.less"
 
 # Undergraduate Coursework - Visualising college graduate data using Ethnicity demographics,salary and employemt
 
